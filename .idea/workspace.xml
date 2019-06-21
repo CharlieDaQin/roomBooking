@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="861bad95-9f8d-4980-9dad-d5de5e3d2ba6" name="Default Changelist" comment="" />
+    <list default="true" id="861bad95-9f8d-4980-9dad-d5de5e3d2ba6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/roombooking.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/java/com/roombooking/demo/dao/IOrderDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/java/com/roombooking/demo/entity/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/java/com/roombooking/demo/entity/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/java/com/roombooking/demo/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/java/com/roombooking/demo/utils/RoomType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/java/com/roombooking/demo/utils/Sex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/res/applicationContext-core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/res/applicationContext-jpa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/res/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/res/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/src/test/java/com/roombooking/demo/dao/IOrderDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/META-INF/roombooking.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/applicationContext-core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/applicationContext-jpa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/com/roombooking/demo/dao/IOrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/com/roombooking/demo/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/com/roombooking/demo/entity/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/com/roombooking/demo/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/com/roombooking/demo/utils/RoomType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/com/roombooking/demo/utils/Sex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roombooking/target/test-classes/com/roombooking/demo/dao/IOrderDaoTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,41 +44,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/roombooking/demo/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/roombooking/demo/entity/dto/UserDTO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/roombooking/demo/entity/Room.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,6 +67,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,16 +106,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="193" />
-    <option name="y" value="-10" />
-    <option name="width" value="981" />
-    <option name="height" value="1055" />
+    <option name="x" value="192" />
+    <option name="y" value="-12" />
+    <option name="width" value="982" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,73 +124,21 @@
               <item name="roombooking" type="b2602c69:ProjectViewProjectNode" />
               <item name="roombooking" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="roombooking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roombooking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roombooking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roombooking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roombooking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roombooking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roombooking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roombooking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roombooking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roombooking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roombooking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roombooking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-              <item name="dto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roombooking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roombooking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/roombooking/demo/entity" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/res" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -202,7 +148,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.10058594" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -277,6 +223,7 @@
       <workItem from="1560994909342" duration="588000" />
       <workItem from="1561009215041" duration="2136000" />
       <workItem from="1561048936056" duration="2390000" />
+      <workItem from="1561087504917" duration="349000" />
     </task>
     <servers />
   </component>
@@ -313,13 +260,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51591000" />
+    <option name="totallyTimeSpent" value="51940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="855" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22821024" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23153692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -492,18 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/roombooking/demo/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/roombooking/demo/entity/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="858">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -514,6 +450,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/roombooking/demo/entity/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
